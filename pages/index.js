@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>弓枚</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="碎叶集" />
         <p className="description">
-          of songs and culture.
+          of song & culture.
         </p>
       </main>
 
