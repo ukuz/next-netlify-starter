@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="碎叶集" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          of songs and culture.
         </p>
       </main>
 
